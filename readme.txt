@@ -1,0 +1,1 @@
+When using my mass report tool you would need discord username and list of proxies which is provided for you, Paste dicord name and choose number of reports & you can't send more reports than nukmber of proxies - Made by kylzax
